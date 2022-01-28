@@ -1,0 +1,7 @@
+* created the movie library that contain the movie-name,rating,genre,comment
+* testing the movie library using karma tool
+
+* In this project, there are 14 specifications,
+skipped one specfication as per your reference and 
+other all 13 specifications are passed
+
